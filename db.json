@@ -1,0 +1,220 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Oversized Half Sleeves",
+      "price": 1075,
+      "category": "men",
+      "sizes": ["L", "XL"],
+      "description": "A stylish oversized half sleeves shirt designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1620461818402-d991ac8a03a2?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 2,
+      "name": "White Printed Shirt",
+      "price": 1733,
+      "category": "women",
+      "sizes": ["L", "XL"],
+      "description": "A stylish white printed shirt designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1568732939097-b949d8c03cc1?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 3,
+      "name": "Golden Watch",
+      "price": 1429,
+      "category": "women",
+      "sizes": ["M", "L"],
+      "description": "A stylish golden watch designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1590736969955-71cc94801759?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 4,
+      "name": "Black Formal Shirt",
+      "price": 1555,
+      "category": "women",
+      "sizes": ["M", "L"],
+      "description": "A stylish black formal shirt designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://plus.unsplash.com/premium_photo-1691622499404-f076050436a3?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 5,
+      "name": "White Tee",
+      "price": 1256,
+      "category": "men",
+      "sizes": ["S", "M", "L"],
+      "description": "A stylish white tee designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://plus.unsplash.com/premium_photo-1727942419945-1908baae3c8e?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 6,
+      "name": "Printed Tee",
+      "price": 1746,
+      "category": "men",
+      "sizes": ["M", "L"],
+      "description": "A stylish printed tee designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1532578941548-30cbde3ad4b1?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 7,
+      "name": "Formal Blue Striped",
+      "price": 1448,
+      "category": "women",
+      "sizes": ["M", "L"],
+      "description": "A stylish formal blue striped shirt designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1715765354354-c5e5a84e1704?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 8,
+      "name": "Black Leather Coat",
+      "price": 883,
+      "category": "women",
+      "sizes": ["S", "M"],
+      "description": "A stylish black leather coat designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1564485377539-4af72d1f6a2f?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 9,
+      "name": "Blue Jean Shirt",
+      "price": 1267,
+      "category": "men",
+      "sizes": ["S", "M", "L", "XL"],
+      "description": "A stylish blue jean shirt designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://plus.unsplash.com/premium_photo-1727942418440-d085b3b5f065?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 10,
+      "name": "Navy Hoodie",
+      "price": 908,
+      "category": "men",
+      "sizes": ["S", "M", "L", "XL"],
+      "description": "A stylish navy hoodie designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://plus.unsplash.com/premium_photo-1727967189498-fb2c7d0a1e30?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 11,
+      "name": "Blue Shirt",
+      "price": 1200,
+      "category": "men",
+      "sizes": ["S", "M", "L", "XL"],
+      "description": "A stylish blue shirt designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://plus.unsplash.com/premium_photo-1727942418332-d71398a73db8?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 12,
+      "name": "Navy Shirt",
+      "price": 1561,
+      "category": "men",
+      "sizes": ["L", "XL"],
+      "description": "A stylish navy shirt designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://plus.unsplash.com/premium_photo-1669703777675-eb67f7653373?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 13,
+      "name": "Blue Blazer",
+      "price": 1345,
+      "category": "men",
+      "sizes": ["S", "M"],
+      "description": "A stylish blue blazer designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://plus.unsplash.com/premium_photo-1679440414393-121571f5d31a?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 14,
+      "name": "White Formal Shirt",
+      "price": 1207,
+      "category": "men",
+      "sizes": ["S", "M", "L"],
+      "description": "A stylish white formal shirt designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1598140772250-3421a28cd6a9?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 15,
+      "name": "Brown Blazer",
+      "price": 1977,
+      "category": "men",
+      "sizes": ["M", "L"],
+      "description": "A stylish brown blazer designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1729865627153-982183619f8e?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 16,
+      "name": "Blue Suit",
+      "price": 20000,
+      "category": "men",
+      "sizes": ["M", "L"],
+      "description": "A stylish blue suit designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1679101893310-9b9adb4b733b?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 17,
+      "name": "White Hoodie",
+      "price": 1217,
+      "category": "men",
+      "sizes": ["S", "M"],
+      "description": "A stylish white hoodie designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1492288991661-058aa541ff43?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 18,
+      "name": "Black Hoodie",
+      "price": 1190,
+      "category": "men",
+      "sizes": ["S", "M"],
+      "description": "A stylish black hoodie designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1519764622345-23439dd774f7?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 19,
+      "name": "White Shirt",
+      "price": 1413,
+      "category": "men",
+      "sizes": ["S", "M", "L", "XL"],
+      "description": "A stylish white shirt designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1593757147298-e064ed1419e5?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 20,
+      "name": "Tan Leather Jacket",
+      "price": 1035,
+      "category": "men",
+      "sizes": ["S", "M", "L", "XL"],
+      "description": "A stylish tan leather jacket designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 21,
+      "name": "Beige Tee",
+      "price": 1538,
+      "category": "men",
+      "sizes": ["L", "XL"],
+      "description": "A stylish beige tee designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1516914943479-89db7d9ae7f2?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 22,
+      "name": "Bomber Jacket",
+      "price": 722,
+      "category": "men",
+      "sizes": ["L", "XL"],
+      "description": "A stylish bomber jacket designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1651448914541-db2ec9fedad1?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 23,
+      "name": "Red Checked Shirt",
+      "price": 811,
+      "category": "men",
+      "sizes": ["S", "M", "L", "XL"],
+      "description": "A stylish red checked shirt designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1434510423563-c7e99bbc5bbd?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 24,
+      "name": "Black Floral Printed",
+      "price": 1912,
+      "category": "men",
+      "sizes": ["S", "M", "L", "XL"],
+      "description": "A stylish black floral printed bomber jacket designed for comfort and versatility. Perfect for everyday wear or casual outings.",
+      "image": "https://images.unsplash.com/photo-1532660621034-fb55e2e59762?w=600&auto=format&fit=crop&q=60"
+    }
+  ]
+}
